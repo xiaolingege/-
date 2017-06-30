@@ -10,7 +10,7 @@
 
 /* Includes ------------------------------------------------------------------*/
 #include "stm32f10x_it.h"
-#include "SZ_STM32F103ZE_LIB.h"
+//#include "SZ_STM32F103ZE_LIB.h"
 #include    "rs485communicate.h"
 
 /* Private typedef -----------------------------------------------------------*/
@@ -125,15 +125,6 @@ void PendSV_Handler(void)
 {
 }
 
-void USART2_IRQHandler(void)
-{//  unsigned int i;
-	if (USART_GetITStatus(USART2, USART_IT_RXNE) != RESET)
-// 	if(!(USART_GetITStatus(USART2,USART_IT_RXNE))); 
-	{
-		USART_ClearITPendingBit(USART2, USART_IT_RXNE);
-
-	}
-}
 
 //void SysTick_Handler(void)
 //{

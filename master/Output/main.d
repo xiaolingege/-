@@ -33,6 +33,7 @@
 ..\Output\main.o: ..\BSP\rs485communicate.h
 ..\Output\main.o: D:\Keil4.70\ARM\ARMCC\bin\..\include\stdbool.h
 ..\Output\main.o: ..\algotithm\magserv.h
+..\Output\main.o: ..\BSP\datatype.h
 ..\Output\main.o: ..\FreeRTOS\inc\FreeRTOS.h
 ..\Output\main.o: D:\Keil4.70\ARM\ARMCC\bin\..\include\stddef.h
 ..\Output\main.o: ..\FreeRTOS\inc\FreeRTOSConfig.h

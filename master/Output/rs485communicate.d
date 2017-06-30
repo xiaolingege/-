@@ -31,3 +31,14 @@
 ..\Output\rs485communicate.o: .\..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
 ..\Output\rs485communicate.o: ..\BSP\rs485communicate.h
 ..\Output\rs485communicate.o: ..\BSP\rs485config.h
+..\Output\rs485communicate.o: ..\FreeRTOS\inc\FreeRTOS.h
+..\Output\rs485communicate.o: D:\Keil4.70\ARM\ARMCC\bin\..\include\stddef.h
+..\Output\rs485communicate.o: ..\FreeRTOS\inc\FreeRTOSConfig.h
+..\Output\rs485communicate.o: ..\FreeRTOS\inc\projdefs.h
+..\Output\rs485communicate.o: ..\FreeRTOS\inc\portable.h
+..\Output\rs485communicate.o: ..\FreeRTOS\inc\deprecated_definitions.h
+..\Output\rs485communicate.o: ..\FreeRTOS\inc\portmacro.h
+..\Output\rs485communicate.o: ..\FreeRTOS\inc\mpu_wrappers.h
+..\Output\rs485communicate.o: ..\FreeRTOS\inc\task.h
+..\Output\rs485communicate.o: ..\FreeRTOS\inc\list.h
+..\Output\rs485communicate.o: ..\FreeRTOS\inc\queue.h

@@ -8,6 +8,6 @@
 //static bool isSendTime(void);
 extern void SendSpeedToCtrl(float vx, float w);
 static u16 CRC16(u8 *puchMsg, u16 usDataLen );
-
+extern	void sendMsgTO485(u8 *ptr, s16 speed);
 #endif
 

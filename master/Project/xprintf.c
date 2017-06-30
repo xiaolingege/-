@@ -11,7 +11,7 @@
 / modified by www.armjishu.com
 /-------------------------------------------------------------------------*/
 #include "stm32f10x.h"
-#include "SZ_STM32F103ZE_LIB.h"
+//#include "SZ_STM32F103ZE_LIB.h"
 #include "xprintf.h"
 
 

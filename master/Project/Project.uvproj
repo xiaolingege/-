@@ -401,16 +401,6 @@
               <FileType>1</FileType>
               <FilePath>.\main.c</FilePath>
             </File>
-            <File>
-              <FileName>xprintf.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\xprintf.c</FilePath>
-            </File>
-            <File>
-              <FileName>SZ_STM32F103ZE_LIB.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\SZ_STM32F103ZE_LIB.c</FilePath>
-            </File>
           </Files>
         </Group>
         <Group>
@@ -523,6 +513,11 @@
               <FileName>magserv.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\algotithm\magserv.c</FilePath>
+            </File>
+            <File>
+              <FileName>speedread.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\algotithm\speedread.c</FilePath>
             </File>
           </Files>
         </Group>

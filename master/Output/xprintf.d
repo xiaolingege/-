@@ -28,7 +28,5 @@
 ..\Output\xprintf.o: .\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
 ..\Output\xprintf.o: .\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
 ..\Output\xprintf.o: .\..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
-..\Output\xprintf.o: SZ_STM32F103ZE_LIB.h
-..\Output\xprintf.o: D:\Keil4.70\ARM\ARMCC\bin\..\include\stdio.h
 ..\Output\xprintf.o: xprintf.h
 ..\Output\xprintf.o: D:\Keil4.70\ARM\ARMCC\bin\..\include\stdarg.h

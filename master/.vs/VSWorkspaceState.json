@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\algotithm",
+    "\\BSP",
     "\\Project"
   ],
-  "SelectedNode": "\\Project\\main.c",
+  "SelectedNode": "\\algotithm\\magserv.c",
   "PreviewInSolutionExplorer": false
 }

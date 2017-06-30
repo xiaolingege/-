@@ -29,7 +29,5 @@
 ..\Output\stm32f10x_it.o: .\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
 ..\Output\stm32f10x_it.o: .\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
 ..\Output\stm32f10x_it.o: .\..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
-..\Output\stm32f10x_it.o: SZ_STM32F103ZE_LIB.h
-..\Output\stm32f10x_it.o: D:\Keil4.70\ARM\ARMCC\bin\..\include\stdio.h
 ..\Output\stm32f10x_it.o: ..\BSP\rs485communicate.h
 ..\Output\stm32f10x_it.o: D:\Keil4.70\ARM\ARMCC\bin\..\include\stdbool.h
