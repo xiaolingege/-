@@ -19,6 +19,7 @@
 ### List of Objects: adding '"..\output\rs485config.o"'
 ### List of Objects: adding '"..\output\hardware.o"'
 ### List of Objects: adding '"..\output\rs485communicate.o"'
+### List of Objects: adding '"..\output\usart.o"'
 ### List of Objects: adding '"..\output\magserv.o"'
 ### List of Objects: adding '"..\output\speedread.o"'
 ### List of Objects: adding '"..\output\croutine.o"'
@@ -29,7 +30,7 @@
 ### List of Objects: adding '"..\output\tasks.o"'
 ### List of Objects: adding '"..\output\timers.o"'
 ### ADS-LD Command completed:
---cpu Cortex-M3 "..\output\stm32f10x_it.o" "..\output\main.o" "..\output\stm32f10x_rcc.o" "..\output\stm32f10x_gpio.o" "..\output\misc.o" "..\output\stm32f10x_exti.o" "..\output\stm32f10x_spi.o" "..\output\stm32f10x_fsmc.o" "..\output\stm32f10x_usart.o" "..\output\stm32f10x_sdio.o" "..\output\stm32f10x_dma.o" "..\output\stm32f10x_i2c.o" "..\output\core_cm3.o" "..\output\system_stm32f10x.o" "..\output\startup_stm32f10x_hd.o" "..\output\rs485config.o" "..\output\hardware.o" "..\output\rs485communicate.o" "..\output\magserv.o" "..\output\speedread.o" "..\output\croutine.o" "..\output\heap_2.o" "..\output\list.o" "..\output\port.o" "..\output\queue.o" "..\output\tasks.o" "..\output\timers.o" 
+--cpu Cortex-M3 "..\output\stm32f10x_it.o" "..\output\main.o" "..\output\stm32f10x_rcc.o" "..\output\stm32f10x_gpio.o" "..\output\misc.o" "..\output\stm32f10x_exti.o" "..\output\stm32f10x_spi.o" "..\output\stm32f10x_fsmc.o" "..\output\stm32f10x_usart.o" "..\output\stm32f10x_sdio.o" "..\output\stm32f10x_dma.o" "..\output\stm32f10x_i2c.o" "..\output\core_cm3.o" "..\output\system_stm32f10x.o" "..\output\startup_stm32f10x_hd.o" "..\output\rs485config.o" "..\output\hardware.o" "..\output\rs485communicate.o" "..\output\usart.o" "..\output\magserv.o" "..\output\speedread.o" "..\output\croutine.o" "..\output\heap_2.o" "..\output\list.o" "..\output\port.o" "..\output\queue.o" "..\output\tasks.o" "..\output\timers.o" 
 --strict --scatter "..\Output\SZ_STM32F103ZE_DEMO.sct" 
 --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
 --info sizes --info totals --info unused --info veneers 
@@ -37,7 +38,7 @@
 ### ADS-LD Output File: '..\Output\SZ_STM32F103ZE_DEMO.axf'
 ### ADS-LD Command File: '..\Output\SZ_STM32F103ZE_DEMO.lnp'
 ### Checking for dirty Components...
-### Creating CmdFile '..\Output\SZ_STM32F103ZE_DEMO.lnp', Handle=0x00000748
+### Creating CmdFile '..\Output\SZ_STM32F103ZE_DEMO.lnp', Handle=0x00000E6C
 ### Writing '.lnp' file
 ### ADS-LD Command file '..\Output\SZ_STM32F103ZE_DEMO.lnp' is ready.
 ### ADS-LD: About to start ADS-LD Thread.

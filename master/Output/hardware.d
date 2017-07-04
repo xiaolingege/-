@@ -1,4 +1,5 @@
 ..\Output\hardware.o: ..\BSP\hardware.c
+..\Output\hardware.o: ..\BSP\hardware.h
 ..\Output\hardware.o: .\..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
 ..\Output\hardware.o: .\..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
 ..\Output\hardware.o: D:\Keil4.70\ARM\ARMCC\bin\..\include\stdint.h
@@ -28,4 +29,4 @@
 ..\Output\hardware.o: .\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
 ..\Output\hardware.o: .\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
 ..\Output\hardware.o: .\..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
-..\Output\hardware.o: ..\BSP\hardware.h
+..\Output\hardware.o: ..\BSP\usart.h

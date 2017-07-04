@@ -401,11 +401,6 @@
               <FileType>1</FileType>
               <FilePath>.\main.c</FilePath>
             </File>
-            <File>
-              <FileName>xprintf.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\xprintf.c</FilePath>
-            </File>
           </Files>
         </Group>
         <Group>
@@ -518,6 +513,11 @@
               <FileName>magserv.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\algotithm\magserv.c</FilePath>
+            </File>
+            <File>
+              <FileName>speedread.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\algotithm\speedread.c</FilePath>
             </File>
           </Files>
         </Group>

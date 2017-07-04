@@ -504,6 +504,11 @@
               <FileType>1</FileType>
               <FilePath>..\BSP\rs485communicate.c</FilePath>
             </File>
+            <File>
+              <FileName>usart.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\BSP\usart.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
